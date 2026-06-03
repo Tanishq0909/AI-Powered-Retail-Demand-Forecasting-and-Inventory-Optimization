@@ -101,3 +101,21 @@ Retail-Demand-Forecasting/
 ## Author
 **Tanishq Belhekar**  
 GitHub: Tanishq0909
+
+## Dashboard Screenshots
+
+### Executive Overview
+
+![Executive Overview](screenshots/executive_overview.png)
+
+---
+
+### Demand Forecasting Dashboard
+
+![Demand Forecasting](screenshots/demand_forecasting.png)
+
+---
+
+### Inventory Optimization Dashboard
+
+![Inventory Optimization](screenshots/inventory_optimization.png)
